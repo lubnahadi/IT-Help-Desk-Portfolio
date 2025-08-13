@@ -1,0 +1,21 @@
+# Active Directory Project Description
+This project demonstrates common Active directory (AD) tasks performed in a lab Environment , including creating and managing user accounts, resetting passwords, addingusers to security groups,
+and joining computers to the domain. These tasks are relevent to IT help Desk Technician roles.
+
+# Steps taken
+Log in to Active Directory users and computers 
+Opened the ADUC tool on the lab computer 
+
+# Created and managed user accounts
+Added new users with details such as name, email, and department 
+edited and updated existing accounts.
+
+# Reseted passwords and unlock user accounts.
+Reset user passwords as needed.
+Unlocked accounts that were locked due to failed login attempts
+
+# Added users to security groups
+Assigned users to appropriate security and distrubtion groups to control access.
+
+# Joined computers to the Domain
+Connected lab computers to the Domain for centralized managment.
