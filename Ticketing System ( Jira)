@@ -1,0 +1,8 @@
+# Ticketing system (Jira ) Description
+This project demonstrates handling IT support tickets using jira . It includes identifying problems , providing solutions, documenting issues and escalating tickets when necessary.
+
+Steps taken 
+identified the problem _ checked the ticket details in jira to understand the issue.
+Provided solution _ Applied the fix or workaround for the reported problem in jira .
+Documented the issue _ Recorded the problem, steps taken and resolution in jira.
+Forwarded to higher _ level support  _ escalated tickets in jira that couldnt be resolved.
