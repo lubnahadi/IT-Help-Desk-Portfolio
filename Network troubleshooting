@@ -1,0 +1,10 @@
+ # Network troubleshooting Description
+This project demonstrates basic network troubleshooting using ipconfig command . it includes checking network configuration, identifying and diagnosing issues applying fixes and verifying network connectivity.
+
+Steps Taken
+Opened command Prompt on the computer.
+Run the IPconfig command to view network configuration
+Check ip address, subnet mask, and default gateway for issues.
+Diagnose any network connectivity problems based on outputs
+Apply fixes , such as renewing IP or correcting settings.
+Verify that the network connection is working properly after troubleshooting.
